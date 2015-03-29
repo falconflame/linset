@@ -445,14 +445,14 @@ DIALOG_WEB_LENGHT_MIN_POR="A senha deve ter mais de 7 caracteres"
 DIALOG_WEB_LENGHT_MAX_POR="A chave deve ser menor que 64 caracteres"
 
 #Indonesia web interface messages
-DIALOG_WEB_INFO_IDN="UNTUK KEAMANAN Wi-Fi, INPUT <b>"$Host_ENC"</b> AKSES KEY INTERNET"
-DIALOG_WEB_INPUT_IDN="<b>Masukkan Wi-Fi (WPA/WPA2) Password</b>:"
+DIALOG_WEB_INFO_IDN="UNTUK KEAMANAN Wi-Fi, Masukkan KEY <b>"$Host_ENC"</b> untuk mengakses Internet"
+DIALOG_WEB_INPUT_IDN="<b>Masukkan Password Wi-Fi (WPA/WPA2)</b>:"
 DIALOG_WEB_SUBMIT_IDN="Submit"
-DIALOG_WEB_ERROR_IDN="<b><font color=\"red\" size=\"3\">Error</font>:</b> Password yang di Masukkan <b>TIDAK</b> Benar!</b>"
+DIALOG_WEB_ERROR_IDN="<b><font color=\"red\" size=\"3\">Error</font>:</b> Password yang dimasukkan <b>TIDAK</b> Benar!</b>"
 DIALOG_WEB_OK_IDN="Koneksi akan kembali beberapa saat."
 DIALOG_WEB_BACK_IDN="Kembali"
-DIALOG_WEB_LENGHT_MIN_IDN="Password harus kurang lebih dari 7 karakter"
-DIALOG_WEB_LENGHT_MAX_IDN="Password harus kurang lebih dari 67 karakter"
+DIALOG_WEB_LENGHT_MIN_IDN="Password harus lebih dari 7 karakter"
+DIALOG_WEB_LENGHT_MAX_IDN="Password harus kurang dari 64 karakter"
 
 # Muestra el mensaje principal del script
 function mostrarheader(){
